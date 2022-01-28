@@ -15,7 +15,4 @@ export default {
 
 <style>
 @import './assets/stylesheets/reset.css';
-* {
-  box-sizing: border-box;
-}
 </style>
